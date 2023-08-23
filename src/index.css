@@ -339,6 +339,39 @@ body {
   justify-content: center;
 }
 
+::-webkit-scrollbar {
+  width: 2px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #2b3035;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #2b3035;
+  border-radius: 2px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #2b3035;
+}
+
+::-webkit-scrollbar-horizontal {
+  height: 5px;
+}
+
+::-webkit-scrollbar-track-horizontal {
+  background-color: #2b3035;
+}
+
+::-webkit-scrollbar-thumb-horizontal {
+  background-color: #2b3035;
+  border-radius: 2px;
+}
+
+::-webkit-scrollbar-thumb-horizontal:hover {
+  background-color: #2b3035;
+}
 /*
 SPACING SYSTEM (px)
 2 / 4 / 8 / 12 / 16 / 24 / 32 / 40 / 48 / 64 / 80 / 96 / 128
