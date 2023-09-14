@@ -1,4 +1,5 @@
 # Este projeto foi desenvolvido durante o curso "The Ultimate React Course 2023: React, Redux & More"
+![image](https://github.com/LeonardoLuisKlein/usePopcorn/assets/106256199/6c0fa314-8f8a-4578-b267-d63482e790bf)
 
 # Getting Started with Create React App
 
